@@ -17,7 +17,7 @@ export default function MoreThan450() {
                 <div className='md:w-1/3 w-full'>
                     <div className='sm:w-[70%]  my-5 md:w-[80%] lg:w-[70%]  mx-auto overflow-hidden'>
                         <div className='relative rounded-2xl overflow-hidden bg-slate-400'>
-                            <Image unoptimized src={"https://i.postimg.cc/GtbmZZSy/sallam.png"} width={400} className='mx-auto w-full rounded-2xl' height={400} alt=' ' />
+                            <Image unoptimized src={"https://i.postimg.cc/hjd2HY7c/sallam-removebg-preview.png"} width={400} className='mx-auto w-full rounded-2xl' height={400} alt=' ' />
                             <div className='morethan450 rounded-2xl flex justify-center items-end absolute top-0 left-0 right-0 bottom-0 '>
                                 <div className='flex w-[70%] justify-around items-center h-2/5'>
                                     <div className='w-1/3'>
@@ -36,7 +36,7 @@ export default function MoreThan450() {
                 <div className='md:w-1/3 w-full'>
                     <div className='sm:w-[70%] my-5  md:w-[80%] lg:w-[70%]  mx-auto overflow-hidden'>
                         <div className='relative rounded-2xl overflow-hidden bg-slate-400'>
-                            <Image unoptimized src={"https://i.postimg.cc/PJK5h2BF/nagaty.png"} width={400} className='mx-auto w-full rounded-2xl' height={400} alt=' ' />
+                            <Image unoptimized src={"https://i.postimg.cc/R08Ppmhg/nagaty-removebg-preview.png"} width={400} className='mx-auto w-full rounded-2xl' height={400} alt=' ' />
                             <div className='morethan450 rounded-2xl flex justify-center items-end absolute top-0 left-0 right-0 bottom-0 '>
                                 <div className='flex w-[70%] justify-around items-center h-2/5'>
                                     <div className='w-1/3'>
@@ -55,14 +55,14 @@ export default function MoreThan450() {
                 <div className='md:w-1/3 w-full'>
                     <div className='sm:w-[70%] my-5  md:w-[80%] lg:w-[70%]  mx-auto overflow-hidden'>
                         <div className='relative rounded-2xl overflow-hidden bg-slate-400'>
-                            <Image unoptimized src={"https://i.postimg.cc/ZYLRr5CF/khalel.png"} width={400} className='mx-auto w-full rounded-2xl' height={400} alt=' ' />
+                            <Image unoptimized src={"https://i.postimg.cc/3wWSZN8y/khalel-removebg-preview.png"} width={400} className='mx-auto w-full rounded-2xl' height={400} alt=' ' />
                             <div className='morethan450 rounded-2xl flex justify-center items-end absolute top-0 left-0 right-0 bottom-0 '>
                                 <div className='flex w-[70%] justify-around items-center h-2/5'>
                                     <div className='w-1/3'>
                                         <div className='w-[50px] h-[50px] bg-[#258a20] border border-[#14ff72] rounded-xl'> </div>
                                     </div>
                                     <div className='w-2/3 text-center flex justify-center flex-col'>
-                                        <h4 className='text-center font-vazir text-white  font-extrabold text-base'>عبدالله سلام</h4>
+                                        <h4 className='text-center font-vazir text-white  font-extrabold text-base'>احمد طارق خليل</h4>
                                         <p className='text-center font-vazir text-gray-400  font-thin text-xs'>Founder of CH Beauty</p>
                                     </div>
                                 </div>
